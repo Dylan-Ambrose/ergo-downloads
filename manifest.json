@@ -1,9 +1,9 @@
 {
   "id": "listic",
   "name": "Listic",
-  "version": "2.7.1",
+  "version": "2.8.0",
   "tag": null,
   "description": "A schedule-first to-do list with per-task timers.",
-  "download_url": "https://github.com/Dylan-Ambrose/listic-downloads/releases/download/v2.7.1/Listic-Setup.exe",
+  "download_url": "https://github.com/Dylan-Ambrose/listic-downloads/releases/download/v2.8.0/Listic-Setup.exe",
   "install_check_path": "%LOCALAPPDATA%\\Programs\\Listic\\Listic.exe"
 }
