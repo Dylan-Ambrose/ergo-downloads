@@ -1,10 +1,10 @@
 {
   "id": "listick",
   "name": "Listick",
-  "version": "2.36.0",
+  "version": "2.36.1",
   "tag": null,
   "description": "A schedule-first to-do list with per-task timers.",
-  "download_url": "https://github.com/Dylan-Ambrose/listick-downloads/releases/download/v2.36.0/Listick-Setup.exe",
+  "download_url": "https://github.com/Dylan-Ambrose/listick-downloads/releases/download/v2.36.1/Listick-Setup.exe",
   "install_check_path": "%LOCALAPPDATA%\\Programs\\Listick\\Listick.exe",
   "icon_url": "https://raw.githubusercontent.com/Dylan-Ambrose/listick-downloads/main/icon.png"
 }
