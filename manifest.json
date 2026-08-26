@@ -1,10 +1,10 @@
 {
   "id": "ergo",
   "name": "Ergo",
-  "version": "4.1.0",
+  "version": "4.2.0",
   "tag": "Organisation",
   "description": "A highly customisable Task Management app that helps you plan your day.",
-  "download_url": "https://github.com/Dylan-Ambrose/ergo-downloads/releases/download/v4.1.0/Ergo-Setup.exe",
+  "download_url": "https://github.com/Dylan-Ambrose/ergo-downloads/releases/download/v4.2.0/Ergo-Setup.exe",
   "install_check_path": "%LOCALAPPDATA%\\Programs\\Ergo\\Ergo.exe",
   "icon_url": "https://raw.githubusercontent.com/Dylan-Ambrose/ergo-downloads/main/icon.png",
   "previous_names": [
