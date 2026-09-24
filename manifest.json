@@ -1,10 +1,10 @@
 {
   "id": "ergo",
   "name": "Ergo",
-  "version": "4.26.4",
+  "version": "4.26.5",
   "tag": "Organisation",
   "description": "A highly customisable Task Management app that helps you plan your day.",
-  "download_url": "https://github.com/Dylan-Ambrose/ergo-downloads/releases/download/v4.26.4/Ergo-Setup.exe",
+  "download_url": "https://github.com/Dylan-Ambrose/ergo-downloads/releases/download/v4.26.5/Ergo-Setup.exe",
   "install_check_path": "%LOCALAPPDATA%\\Programs\\Ergo\\Ergo.exe",
   "icon_url": "https://raw.githubusercontent.com/Dylan-Ambrose/ergo-downloads/main/icon.png",
   "previous_names": [
@@ -12,8 +12,6 @@
     "Listic"
   ],
   "notes": [
-    "Signing in with Google or GitHub can be cancelled, so closing the browser no longer leaves the page stuck",
-    "Remember me: untick it and closing the app signs you out; ticked, your login is offered next time, encrypted on this computer",
-    "The sign-in page shows each launch while you are signed out; Not now skips it"
+    "Ergo opens full size straight away, instead of opening small and growing"
   ]
 }
