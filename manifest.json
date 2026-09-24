@@ -1,10 +1,10 @@
 {
   "id": "ergo",
   "name": "Ergo",
-  "version": "4.26.0",
+  "version": "4.26.1",
   "tag": "Organisation",
   "description": "A highly customisable Task Management app that helps you plan your day.",
-  "download_url": "https://github.com/Dylan-Ambrose/ergo-downloads/releases/download/v4.26.0/Ergo-Setup.exe",
+  "download_url": "https://github.com/Dylan-Ambrose/ergo-downloads/releases/download/v4.26.1/Ergo-Setup.exe",
   "install_check_path": "%LOCALAPPDATA%\\Programs\\Ergo\\Ergo.exe",
   "icon_url": "https://raw.githubusercontent.com/Dylan-Ambrose/ergo-downloads/main/icon.png",
   "previous_names": [
@@ -12,7 +12,7 @@
     "Listic"
   ],
   "notes": [
-    "Your day now shows in Slate's Overview too",
-    "Share anonymous usage and crash reports: a switch in Settings, off unless you turn it on"
+    "The sign-in page is a quarter larger and easier to read",
+    "The welcome tour shows nothing in the title bar but the window buttons"
   ]
 }
