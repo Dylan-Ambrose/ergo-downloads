@@ -1,10 +1,10 @@
 {
   "id": "ergo",
   "name": "Ergo",
-  "version": "4.30.0",
+  "version": "4.31.0",
   "tag": "Organisation",
   "description": "A highly customisable Task Management app that helps you plan your day.",
-  "download_url": "https://github.com/Dylan-Ambrose/ergo-downloads/releases/download/v4.30.0/Ergo-Setup.exe",
+  "download_url": "https://github.com/Dylan-Ambrose/ergo-downloads/releases/download/v4.31.0/Ergo-Setup.exe",
   "install_check_path": "%LOCALAPPDATA%\\Programs\\Ergo\\Ergo.exe",
   "icon_url": "https://raw.githubusercontent.com/Dylan-Ambrose/ergo-downloads/main/icon.png",
   "previous_names": [
@@ -12,9 +12,8 @@
     "Listic"
   ],
   "notes": [
-    "A real calendar: your week by the hour, opening at the current time",
-    "Your day as a calendar beside Today, Upcoming and All tasks",
-    "Quieter rows, with only the next task lifted",
-    "Feedback in the sidebar, and centred toggle switches"
+    "Routines that repeat on the days you pick, with an optional start time",
+    "A different routine each day, the same every week",
+    "Wishlist items with a price go to Lists, and lists never reach Slate"
   ]
 }
