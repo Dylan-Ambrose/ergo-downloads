@@ -1,10 +1,10 @@
 {
   "id": "ergo",
   "name": "Ergo",
-  "version": "4.32.0",
+  "version": "4.33.0",
   "tag": "Organisation",
   "description": "A highly customisable Task Management app that helps you plan your day.",
-  "download_url": "https://github.com/Dylan-Ambrose/ergo-downloads/releases/download/v4.32.0/Ergo-Setup.exe",
+  "download_url": "https://github.com/Dylan-Ambrose/ergo-downloads/releases/download/v4.33.0/Ergo-Setup.exe",
   "install_check_path": "%LOCALAPPDATA%\\Programs\\Ergo\\Ergo.exe",
   "icon_url": "https://raw.githubusercontent.com/Dylan-Ambrose/ergo-downloads/main/icon.png",
   "previous_names": [
@@ -12,8 +12,8 @@
     "Listic"
   ],
   "notes": [
-    "Right-click any box you type in for Cut, Copy, Paste and Select all",
-    "The sidebar button sits on the sidebar's edge, where its rows end",
-    "Tooltips match the right-click menu, and icons use Slate's lighter line"
+    "The snippet: a small window with the task running now, its timer, the day and Spotify",
+    "Open it from Snippet in the sidebar, the tray menu, or Ctrl+Shift+S; it stays on top and out of the taskbar",
+    "Tick, time or add a task in either window and the other shows it within a second"
   ]
 }
