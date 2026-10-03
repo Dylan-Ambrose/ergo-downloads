@@ -1,10 +1,10 @@
 {
   "id": "ergo",
   "name": "Ergo",
-  "version": "4.35.0",
+  "version": "4.36.0",
   "tag": "Organisation",
   "description": "A highly customisable Task Management app that helps you plan your day.",
-  "download_url": "https://github.com/Dylan-Ambrose/ergo-downloads/releases/download/v4.35.0/Ergo-Setup.exe",
+  "download_url": "https://github.com/Dylan-Ambrose/ergo-downloads/releases/download/v4.36.0/Ergo-Setup.exe",
   "install_check_path": "%LOCALAPPDATA%\\Programs\\Ergo\\Ergo.exe",
   "icon_url": "https://raw.githubusercontent.com/Dylan-Ambrose/ergo-downloads/main/icon.png",
   "previous_names": [
@@ -12,7 +12,8 @@
     "Listic"
   ],
   "notes": [
-    "The Ergo mark in the top left now opens and closes the sidebar",
-    "Hover it to see the panel icon; Ctrl+\\ still works"
+    "The snippet is its own program now: open Ergo snippet from the Start menu, even with Ergo closed",
+    "Timers are saved with the day, so they keep counting whichever window is open",
+    "A paused timer keeps its place instead of going back to the full length"
   ]
 }
