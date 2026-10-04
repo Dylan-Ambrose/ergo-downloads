@@ -1,10 +1,10 @@
 {
   "id": "ergo",
   "name": "Ergo",
-  "version": "4.41.1",
+  "version": "4.41.2",
   "tag": "Organisation",
   "description": "A highly customisable Task Management app that helps you plan your day.",
-  "download_url": "https://github.com/Dylan-Ambrose/ergo-downloads/releases/download/v4.41.1/Ergo-Setup.exe",
+  "download_url": "https://github.com/Dylan-Ambrose/ergo-downloads/releases/download/v4.41.2/Ergo-Setup.exe",
   "install_check_path": "%LOCALAPPDATA%\\Programs\\Ergo\\Ergo.exe",
   "icon_url": "https://raw.githubusercontent.com/Dylan-Ambrose/ergo-downloads/main/icon.png",
   "previous_names": [
@@ -12,7 +12,8 @@
     "Listic"
   ],
   "notes": [
-    "Tab stays inside Settings, the welcome tour, the login page and the Ctrl+T task box instead of reaching the page behind",
-    "Closing one of them puts you back on the button that opened it"
+    "With the sidebar folded, the update button shows a download icon (and the percent while it downloads) instead of clipped words",
+    "The Horizon accent's focus ring and selection are its own blue now",
+    "The tray's timer tooltip reads 'Task name, 12:34 remaining'"
   ]
 }
