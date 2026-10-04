@@ -1,10 +1,10 @@
 {
   "id": "ergo",
   "name": "Ergo",
-  "version": "4.36.1",
+  "version": "4.37.0",
   "tag": "Organisation",
   "description": "A highly customisable Task Management app that helps you plan your day.",
-  "download_url": "https://github.com/Dylan-Ambrose/ergo-downloads/releases/download/v4.36.1/Ergo-Setup.exe",
+  "download_url": "https://github.com/Dylan-Ambrose/ergo-downloads/releases/download/v4.37.0/Ergo-Setup.exe",
   "install_check_path": "%LOCALAPPDATA%\\Programs\\Ergo\\Ergo.exe",
   "icon_url": "https://raw.githubusercontent.com/Dylan-Ambrose/ergo-downloads/main/icon.png",
   "previous_names": [
@@ -12,8 +12,8 @@
     "Listic"
   ],
   "notes": [
-    "A priced line typed in the snippet now stays in Lists, even with Ergo open in Lists",
-    "Switching back to Tasks keeps what you changed in the snippet meanwhile",
-    "Spotify stays connected with Ergo and the snippet both open"
+    "Ergo Free keeps today: tasks, timers, the daily schedule and one routine",
+    "Ergo Pro adds the weekly calendar, history and search, more routines, export and the snippet",
+    "Nothing is removed: anything on Pro shows a lock and opens again on Pro"
   ]
 }
