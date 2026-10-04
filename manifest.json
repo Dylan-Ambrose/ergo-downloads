@@ -1,10 +1,10 @@
 {
   "id": "ergo",
   "name": "Ergo",
-  "version": "4.37.0",
+  "version": "4.38.0",
   "tag": "Organisation",
   "description": "A highly customisable Task Management app that helps you plan your day.",
-  "download_url": "https://github.com/Dylan-Ambrose/ergo-downloads/releases/download/v4.37.0/Ergo-Setup.exe",
+  "download_url": "https://github.com/Dylan-Ambrose/ergo-downloads/releases/download/v4.38.0/Ergo-Setup.exe",
   "install_check_path": "%LOCALAPPDATA%\\Programs\\Ergo\\Ergo.exe",
   "icon_url": "https://raw.githubusercontent.com/Dylan-Ambrose/ergo-downloads/main/icon.png",
   "previous_names": [
@@ -12,8 +12,7 @@
     "Listic"
   ],
   "notes": [
-    "Ergo Free keeps today: tasks, timers, the daily schedule and one routine",
-    "Ergo Pro adds the weekly calendar, history and search, more routines, export and the snippet",
-    "Nothing is removed: anything on Pro shows a lock and opens again on Pro"
+    "Settings, About can install the snippet on its own, update it and uninstall it",
+    "Snippet has left the sidebar: Ctrl+Shift+S, the tray and the Start menu still open it"
   ]
 }
