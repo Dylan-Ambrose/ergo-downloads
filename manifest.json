@@ -12,17 +12,12 @@
     "Listic"
   ],
   "notes": [
-<<<<<<< Updated upstream
     "Block someone on the feedback board: Block sits beside Report under anyone else's post",
     "The people you blocked are listed at the bottom of the board, each with Unblock"
-  ]
-=======
-    "The welcome tour's last screen says what an account gives you: your plan on any computer, and the feedback board"
   ],
   "mac": {
     "version": "4.42.1",
     "download_url": "https://github.com/Dylan-Ambrose/ergo-downloads/releases/download/v4.42.1/Ergo.dmg",
     "install_check_path": "/Applications/Ergo.app"
   }
->>>>>>> Stashed changes
 }
