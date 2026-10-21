@@ -16,8 +16,8 @@
     "The people you blocked are listed at the bottom of the board, each with Unblock"
   ],
   "mac": {
-    "version": "4.43.2",
-    "download_url": "https://github.com/Dylan-Ambrose/ergo-downloads/releases/download/v4.43.2/Ergo.dmg",
+    "version": "4.44.0",
+    "download_url": "https://github.com/Dylan-Ambrose/ergo-downloads/releases/download/v4.44.0/Ergo.dmg",
     "install_check_path": "/Applications/Ergo.app"
   }
 }
