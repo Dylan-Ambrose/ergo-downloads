@@ -17,8 +17,8 @@
     "Repeats on weekdays, chosen days or every few days, and your Google, iCloud or Outlook calendar shown in Ergo"
   ],
   "mac": {
-    "version": "4.45.0",
-    "download_url": "https://github.com/Dylan-Ambrose/ergo-downloads/releases/download/v4.45.0/Ergo.dmg",
+    "version": "4.46.0",
+    "download_url": "https://github.com/Dylan-Ambrose/ergo-downloads/releases/download/v4.46.0/Ergo.dmg",
     "install_check_path": "/Applications/Ergo.app"
   }
 }
