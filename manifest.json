@@ -1,10 +1,10 @@
 {
   "id": "ergo",
   "name": "Ergo",
-  "version": "4.45.0",
+  "version": "4.47.0",
   "tag": "Organisation",
   "description": "A highly customisable Task Management app that helps you plan your day.",
-  "download_url": "https://github.com/Dylan-Ambrose/ergo-downloads/releases/download/v4.45.0/Ergo-Setup.exe",
+  "download_url": "https://github.com/Dylan-Ambrose/ergo-downloads/releases/download/v4.47.0/Ergo-Setup.exe",
   "install_check_path": "%LOCALAPPDATA%\\Programs\\Ergo\\Ergo.exe",
   "icon_url": "https://raw.githubusercontent.com/Dylan-Ambrose/ergo-downloads/main/icon.png",
   "previous_names": [
@@ -12,9 +12,9 @@
     "Listic"
   ],
   "notes": [
-    "Your tasks now sync between your computers when you sign in",
-    "A Stats page: tasks done, time on timers, and the days your plan held",
-    "Repeats on weekdays, chosen days or every few days, and your Google, iCloud or Outlook calendar shown in Ergo"
+    "Keep ticked tasks in Today, struck through, so you can see how far through the day you are",
+    "Show or hide the day calendar from the top right; your list grows into the space",
+    "The Family design from Ergo for iPhone, across the whole window"
   ],
   "mac": {
     "version": "4.46.0",
